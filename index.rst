@@ -20,7 +20,7 @@ Công ty thiết kế xây dựng Kiến Trúc Đỏ được phát triển bở
 
 SDT: 0905133511
 
-http://kientrucdo.com
+http://kientrucdo.vn
 
 https://kientrucdodn.wordpress.com/
 
